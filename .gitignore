@@ -1,2 +1,4 @@
 flaskBlog/*
+coverage/*
 *pyc
+*.jpg
